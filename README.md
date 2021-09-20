@@ -18,3 +18,7 @@ And here is a search for UFO sightings in San Diego, CA.
 
 And another search for sightings of oval-shaped UFOs in the US.
 <img width="1168" alt="us_oval_ufos" src="https://user-images.githubusercontent.com/84999050/133954346-a7f415b4-b885-454e-a09a-594a8f8787f1.png">
+
+## Summary
+
+Being able to specify search criteria is very useful in parsing data. Though on this site, the case-sensitivity of the search makes it a bit finicky. To improve things, we could loosen that up. Also, the data we received is interesting and useful, but also ridden with typos and misspellings. We could write code to try to clean that up as well in the future.
